@@ -1,0 +1,14 @@
+<script>
+  function SearchQuery(val) {
+    document.getElementById("searchButton").href = "https://www.google.com/search?q=" + val;
+  }
+
+  function buttonClick(){
+    document.getElementById("searchBox").value = "";
+  }
+</script>
+
+<section>
+  <input id="searchBox" type="text" name="searchBox" value="" onchange="SearchQuery(this.value)">
+  <a id="searchButton" href="https://www.google.co.uk/" target="_blank" onclick="buttonClick()">Search with Google</p>
+<section>

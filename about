@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>AnswerDB</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="icon" type="image/png" href="images/logo.png" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<center><a href="/" class="logo">
+									<span class="symbol"><img src="/images/logo.png" alt="" /></span><span class="title">AnswerDB</span>
+								</a></center>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+        <!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="/">Home</a></li>
+							<li><a href="/forschools">For Schools And Educators</a></li>
+							<li><a href="/about">About</a></li>
+							<li><a href="/privacy-policy">Privacy Policy</a></li>
+						</ul></li>
+            <a href="https://www.patreon.com/bePatron?u=68480689" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+					</nav>
+
+				<!-- Main -->
+					
+            <div id="main">
+						<div class="inner">
+							<center><h1>About AnswerDB</h1></center>
+							<span class="image main"><img src="images/ANSWERDB.png" alt="" /></span>
+							<center><p>AnswerDB is an answer database, for use in schools and home educations for revision and answer checking. Made by the Flow5 duo, we constantly update the database, striving for a fully updated answer list. At no point was our project meant to cause cheating and we understand this may be a major problem. We have acknoledged this by creating a list of ways you can stop your students from cheating using our site. Click me to found out more.</p>
+						</center>
+						</div>
+					</div>
+          
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Get in touch</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="field half">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="field">
+											<textarea name="message" id="message" placeholder="Message"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send" class="primary" /></li>
+									</ul>
+								</form>
+							</section>
+							<section>
+								<h2>Follow</h2>
+								<ul class="icons">
+									<li><a href="https://twitter.com/Flow5Net" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://github.com/Flow5Net" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Flow5. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
